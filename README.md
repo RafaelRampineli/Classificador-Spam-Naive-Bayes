@@ -25,15 +25,22 @@ A execução do aplicativo deve ser feito da seguinte forma:
 
 $ python spam.py train bayes train/ output/resultado_treino.txt latin1
 
+- python – nome do interpretador
+- spam.py – nome do seu aplicativo Python (nome do script)
+- train – tipo de operação do aplicativo, que será executado em modo treinamento
+- bayes – nome do método de classificação, no caso Naive Bayes.
+- train/ - nome do diretório onde estão os dados de treino
+- output/resultado_treino.txt – arquivo onde será gravado o resultado do modelo de classificação treinado.
+- latin1 - Encoding utilizando durante a execução.
+
 $ python spam.py test bayes test/ output/resultado_teste.txt latin1
 
-python – nome do interpretador
-spam.py – nome do seu aplicativo Python (nome do script)
-train – tipo de operação do aplicativo, que será executado em modo treinamento
-bayes – nome do método de classificação, no caso Naive Bayes.
-train/ - nome do diretório onde estão os dados de treino
-output/resultado_treino.txt – arquivo onde será gravado o resultado do modelo de classificação treinado.
-output/resultado_teste.txt – arquivo onde será gravado o resultado das previsões do modelo.
-latin1 - Encoding utilizando durante a execução.
+- python – nome do interpretador
+- spam.py – nome do seu aplicativo Python (nome do script)
+- test – tipo de operação do aplicativo, que será executado em modo treinamento
+- bayes – nome do método de classificação, no caso Naive Bayes.
+- test/ - nome do diretório onde estão os dados de treino
+- output/resultado_teste.txt – arquivo onde será gravado o resultado das previsões do modelo.
+- latin1 - Encoding utilizando durante a execução.
 
 
