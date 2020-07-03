@@ -47,3 +47,4 @@ $ python spam.py test bayes test/ output/resultado_teste.txt latin1
 - latin1 - Encoding utilizando durante a execução.
 
 
+O Projeto ainda possui algumas melhores a serem desenvolvidas como: Output de palavras que geralmente são classificadas como Spam e Not Spam.
