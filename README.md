@@ -16,11 +16,11 @@ Um saco de palavras (bag of words) é uma representação de um texto como um ag
 Nosso classificador é na verdade um aplicativo que será executado via linha de comando. Você precisa ter o interpretador do Python 3 instalado. 
 A execução do aplicativo deve ser feito da seguinte forma:
 
--1- Abra um terminal ou prompt de comando.
--2- Navegue até o diretório onde estão os arquivos que você baixou.
--3- Execute o aplicativo para os dados de treino, a fim de treinar o modelo.
--4- Execute o aplicativo com os dados de teste, para avaliar o modelo.
--5- Atingindo o nível de acurácia desejado, seu aplicativo analítico para classificação de Spam está pronto para receber novos conjuntos de dados e realizar a classificação do que é spam e do que não é.
+- 1- Abra um terminal ou prompt de comando.
+- 2- Navegue até o diretório onde estão os arquivos que você baixou.
+- 3- Execute o aplicativo para os dados de treino, a fim de treinar o modelo.
+- 4- Execute o aplicativo com os dados de teste, para avaliar o modelo.
+- 5- Atingindo o nível de acurácia desejado, seu aplicativo analítico para classificação de Spam está pronto para receber novos conjuntos de dados e realizar a classificação do que é spam e do que não é.
 
 # MODELO EXECUÇÃO:
 
