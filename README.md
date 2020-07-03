@@ -48,5 +48,6 @@ $ python spam.py test bayes test/ output/resultado_teste.txt latin1
 
 
 O Projeto ainda possui algumas melhores a serem desenvolvidas como: 
-- Output de palavras que geralmente são classificadas como Spam e Not Spam e;
-- Melhor divisão das classes;
+- Output de palavras que geralmente são classificadas como Spam e Not Spam;
+- Melhor divisão das classes do projeto;
+- Aplicar uma saída Objetiva se um determinado texto deve ser categorizado como SPAM ou NOT SPAM;
