@@ -26,8 +26,6 @@ A execução do aplicativo deve ser feito da seguinte forma:
 
 $ python spam.py train bayes train/ output/resultado_treino.txt latin1
 
-
-
 - python – nome do interpretador
 - spam.py – nome do seu aplicativo Python (nome do script)
 - train – tipo de operação do aplicativo, que será executado em modo treinamento
@@ -47,6 +45,7 @@ $ python spam.py test bayes test/ output/resultado_teste.txt latin1
 - latin1 - Encoding utilizando durante a execução.
 
 
+# TO DO:
 O Projeto ainda possui algumas melhores a serem desenvolvidas como: 
 - Output de palavras que geralmente são classificadas como Spam e Not Spam;
 - Melhor divisão das classes do projeto;
