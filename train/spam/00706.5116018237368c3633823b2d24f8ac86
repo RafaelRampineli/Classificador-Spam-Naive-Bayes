@@ -1,0 +1,173 @@
+﻿From spamassassin-sightings-admin@lists.sourceforge.net  Wed Jul 17 17:24:50 2002
+Return-Path: <spamassassin-sightings-admin@example.sourceforge.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 3EE4143C65
+	for <jm@localhost>; Wed, 17 Jul 2002 12:24:50 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 17 Jul 2002 17:24:50 +0100 (IST)
+Received: from usw-sf-list2.sourceforge.net (usw-sf-fw2.sourceforge.net
+    [216.136.171.252]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g6HGN9J04464 for <jm-sa-sightings@jmason.org>; Wed, 17 Jul 2002 17:23:09
+    +0100
+Received: from usw-sf-list1-b.sourceforge.net ([10.3.1.13]
+    helo=usw-sf-list1.sourceforge.net) by usw-sf-list2.sourceforge.net with
+    esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id 17UrZz-0006Mo-00; Wed,
+    17 Jul 2002 09:23:07 -0700
+Received: from itchy.serv.net ([205.153.154.199]) by
+    usw-sf-list1.sourceforge.net with esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id
+    17UrZX-0000zp-00 for <spamassassin-sightings@lists.sourceforge.net>;
+    Wed, 17 Jul 2002 09:22:39 -0700
+Received: (from llyra@localhost) by itchy.serv.net (8.9.3/8.9.3) id
+    JAA43033 for spamassassin-sightings@lists.sf.net; Wed, 17 Jul 2002
+    09:18:35 -0700 (PDT)
+Received: from mx.serv.net (mx [205.153.154.205]) by itchy.serv.net
+    (8.9.3/8.9.3) with ESMTP id BAA90153 for <llyra@itchy.serv.net>;
+    Sat, 13 Jul 2002 01:41:38 -0700 (PDT)
+Received: from drizzle.com (IDENT:root@cascadia.drizzle.com
+    [216.162.192.17]) by mx.serv.net (8.9.3/8.9.1) with ESMTP id BAA14760 for
+    <filtered@llyra.com>; Sat, 13 Jul 2002 01:45:33 -0700 (PDT)
+Received: from drizzle.com (IDENT:harmony@localhost [127.0.0.1]) by
+    drizzle.com (8.12.3/8.12.3) with ESMTP id g6D8jZ5C027821 for
+    <filtered@llyra.com>; Sat, 13 Jul 2002 01:45:35 -0700
+Received: (from harmony@localhost) by drizzle.com (8.12.3/8.12.3/Submit)
+    id g6D8jYQr027820 for filtered@llyra.com; Sat, 13 Jul 2002 01:45:34 -0700
+Received: from itchy.serv.net (itchy.serv.net [205.153.154.199]) by
+    drizzle.com (8.12.3/8.12.3) with ESMTP id g6D8jY5C027813 for
+    <harmony@drizzle.com>; Sat, 13 Jul 2002 01:45:34 -0700
+Received: (from llyra@localhost) by itchy.serv.net (8.9.3/8.9.3) id
+    BAA90145 for harmony@drizzle.com; Sat, 13 Jul 2002 01:41:36 -0700 (PDT)
+Received: from mx.serv.net (mx [205.153.154.205]) by itchy.serv.net
+    (8.9.3/8.9.3) with ESMTP id BAA90141 for <llyra@itchy.serv.net>;
+    Sat, 13 Jul 2002 01:41:32 -0700 (PDT)
+Received: from home ([61.13.203.224]) by mx.serv.net (8.9.3/8.9.1) with
+    SMTP id BAA14376; Sat, 13 Jul 2002 01:41:28 -0700 (PDT)
+Message-Id: <200207130841.BAA14376@mx.serv.net>
+From: ¤O±¶¬ì§Þ@mx.serv.net
+To: 000@mx.serv.net, new-1@mx.serv.net, new-10@mx.serv.net,
+	new-11@mx.serv.net, new-12@mx.serv.net
+X-Mailer: PgE8daPGJARs2QpRt
+Content-Type: text/plain
+X-Priority: 3
+X-Msmail-Priority: Normal
+X-MIME-Autoconverted: from Quoted-Printable to 8bit by itchy.serv.net id
+    BAA90141
+Subject: [SA] =?big5?Q?=BE=A5=A4=F4=A7X=A7=E5=B5o=B9q=A4l=B3=F8?=
+Sender: spamassassin-sightings-admin@example.sourceforge.net
+Errors-To: spamassassin-sightings-admin@example.sourceforge.net
+X-Beenthere: spamassassin-sightings@example.sourceforge.net
+X-Mailman-Version: 2.0.9-sf.net
+Precedence: bulk
+List-Help: <mailto:spamassassin-sightings-request@example.sourceforge.net?subject=help>
+List-Post: <mailto:spamassassin-sightings@example.sourceforge.net>
+List-Subscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-sightings>,
+    <mailto:spamassassin-sightings-request@lists.sourceforge.net?subject=subscribe>
+List-Id: <spamassassin-sightings.example.sourceforge.net>
+List-Unsubscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-sightings>,
+    <mailto:spamassassin-sightings-request@lists.sourceforge.net?subject=unsubscribe>
+List-Archive: <http://www.geocrawler.com/redir-sf.php3?list=spamassassin-sightings>
+X-Original-Date: Sat, 13 Jul 2002 01:41:28 -0700 (PDT)
+Date: Sat, 13 Jul 2002 01:41:28 -0700 (PDT)
+Content-Transfer-Encoding: 8bit
+
+¤£¦n·N«ä¥´ÅÍ±z¡I¦pªG¥»¼s§i«H¹ï±z²£¥Í§xÂZ¡A¦b¦¹²`·P©êºp!!!½Ð¦h¨£½Ì!!ÁÂÁÂ!~~
+
+§O¦A·íÄë¬¹ªÌ¤F¡I±zÁÙ¦b¨Ï¥Î°ª»ùªº­ì¼t¾¥¤ô§X¶Ü¡H
+
+¼t°Ó¥H§C»ù½æ¥X¾÷¾¹¡A·íµM­n¥H¯Ó§÷ÁÈ¦^§Q¼í¡A¶R4­Ó¾¥¤ô§X¬Û·í©ó1¥x¾÷¾¹¡A¼t°Ó·íµM§Æ±æ®ø¶OªÌÁÊ¶R­ì¼t¾¥¤ô§X¤F¡A¨ä¹ê°Æ¼t¬Û®e©Ê¾¥¤ô§Xªº«~½è¤w¤£¿éµ¹­ì¼t¤F¡A¦óªp¤S¦³¤@¦~«O©TªA°È¡I²{¦bEPSON¨t¦C¤¤¡A¤Z¶Â¦â¾¥¤ô§X¤@«ß170¤¸¡A±m¦â¾¥¤ô§X¤@«ß190¤¸¡A¬O¥«°â°Æ¼t¾¥¤ô§X»ù®æªº¤@¥b¡A­ì¼tªº¥|¤À¤§¤@¡A¤GªÌ¦XÁÊ¤ñ³æ¶R­ì¼t1­ÓÁÙ«K©y¤@¥b¡I
+
+»s³y°Ó¡÷§åµo°Ó©Î¤j½L°Ó¡÷¤¤½L°Ó©Î¶q³c©±¡÷¤p½L°Ó©Î¤å¨ã©±¡÷®ø¶OªÌ
+»s³y°Ó¡÷§åµo°Ó©Î¤j½L°Ó¡÷         ¤O±¶¬ì§Þ             ¡÷®ø¶OªÌ
+
+¡i¤O±¶¬ì§Þ¡j¦³¦U®a¼tµP(EPSON¡BHP¡BCANON)ªº³q¥Î¬Û®e©Ê¾¥¤ô§X¡A«P¾P´Á¶¡¯S§OÀu´f¤½¥q¦æ¸¹¤ÎªÀ·|¥Á²³º[²ñ²ñ¾Ç¤l¡A¥B¤£½×ÁÊ¶R¼Æ¶q¦h¤Ö¡A¤@«ß§K¶O³f°e¨ì©²ªA°È¡F³f¨ì¥I´Ú(¤w§t¶l¸ê¤Î«O©TªA°È¤@¦~)¡I
+¦³»Ý­n®É½Ð¨Ó¹q(mail)¸ß°Ý©Î­qÁÊ (¤½¥q¦æ¸¹¥i¶}¥ßµo²¼) ¡I
+³ø»ùºô­¶¡Ghttp://hk.geocities.com/lijaytw/index.htm ¥i¦bºô­¶¤W­qÁÊ¡I
+­q³f±M½u¡G07-3481489 / FAX¡G07-9732420 / email¡Gfen6049@yahoo.com.tw     
+¤@¡BEPSON¾¥¤ô§X¨t¦C¡G¤@¦¸ÁÊ¶R5­Ó¥H¤W´N¥i¨É¤E§éÀu´f¡F10­Ó¥H¤W§ó¨É¤K§éÀu´f¡I
+¤G¡BEPSON¾¥¤ô§X¤§³f·½¼t°Ó¬°¨ú±oISO9001»{ÃÒ¤§¤½¥q¡A²£«~§¡¥H¯uªÅÄéª`¥]¸Ë¦Ó¦¨¡A«D¤@¯ë¥H¶ñ¥R¾¥¤ô¶ñª`¤§§C«~½è¥i¤ñÀÀ¡F¦ÓHP¾¥¤ô§X¤ÎºÒ¯»§X¬°¨ú±oISO14000°ê»ÚÀô«O»{ÃÒ¤§¬ü¡B­^»s³y°Ó¶i¤f¡A²£«~§¡¸gÄY®æ«~½èºÞ¨î¤Î¦C¦LÀË´ú¡A«~½è¥i·B¬ü­ì¼t²£«~¡A100%«~½è«OÃÒ¡I
+¤T¡B©Ò¦³²£«~¬Ò¦³«O©T¤Î«~½è«OÃÒ:¨Ï¥Î¤W­Y¦³°ÝÃD,«hµL±ø¥ó¤@´«¤@§ó´«·s«~¡A­YÁÙ¬O¤£º¡·N¡AÁÙ¥i¥H¿ï¾Ü°h¶O¡C
+¥|¡B¥xÆW¥þ¬Ù¬Ò¥i­qÁÊ¡A¥B¤£½×ÁÊ¶R¼Æ¶q¦h¤Ö¡A¤@«ß§K¶O³f°e¨ì©²ªA°È¡F³f¨ì¤~¥I´Ú¡I¥i¶}¥ß¦¬¾Ú©Îµo²¼¡iµ|¥t­p¡j¡I
+EPSON ¨t¦C  ¾¥¤ô§X 
+¡i¾¥¤ô§X½s¸¹/ ÃC¦â¡j         /          ¾A ¥Î ¾÷ «¬              /            ¡m§åµo»ù¡n
+¡iS020034 ¶Â¦â¡jEpson Stylus Color¡BPro¡BProXL¡BProXL+   ¡m§åµo»ù250 ¤¸¡n
+¡iS020036 ±m¦â¡jEpson Stylus Color¡BPro¡BProXL  ¡m§åµo»ù350 ¤¸¡n
+¡iS020039 ¶Â¦â¡jEpson Stylus 400/800/800+/1000  ¡m§åµo»ù170 ¤¸¡n
+¡iS020047 ¶Â¦â¡jEpson Stylus 200/820/Color200/II/IIs ¡m§åµo»ù250 ¤¸¡n
+¡iS020049 ±m¦â¡jEpson Stylus 820/1500/1500C    Epson Stylus Color II/II S ¡m§åµo»ù190 ¤¸¡n
+¡iS020089 ±m¦â¡jEpson Stylus Color 400/600/800/850/1520 ¡m§åµo»ù190 ¤¸¡n
+¡iS020093 ¶Â¦â¡jEpson Stylus Color 400/500/600  Stylus Photo700/Photo710/Photo EX /Photo EX2   IP100 ¡m§åµo»ù170 ¤¸¡n
+¡iS020097 ±m¦â¡jEpson Stylus 200    Epson Stylus Color 200/500 ¡m§åµo»ù190 ¤¸¡n
+¡iS020108 ¶Â¦â¡jEpson Stylus Color 800/850/1520 ¡m§åµo»ù170 ¤¸¡n
+¡iS020110 ±m¦â¡jEpson Stylus Photo700/710/ EX/  EX2   IP100 ¡m§åµo»ù190 ¤¸¡n
+¡iS020118 ¶Â¦â¡jEpson Stylus Color 3000  ¡m§åµo»ù800 ¤¸¡n
+¡iS020122 ¶À¦â¡jEpson Stylus Color 3000  ¡m§åµo»ù800 ¤¸¡n
+¡iS020126 ¬õ¦â¡jEpson Stylus Color 3000  ¡m§åµo»ù800 ¤¸¡n
+¡iS020130 ÂÅ¦â¡jEpson Stylus Color 3000  ¡m§åµo»ù800 ¤¸¡n
+¡iS020138 ¶Â/±m¦â¡jEpson Stylus Color 300  ¡m§åµo»ù190 ¤¸¡n
+¡iS020187 ¶Â¦â¡jEpson Stylus Color 440/460/640/660/670 Photo 720/750/1200/EX3 ¡m§åµo»ù170 ¤¸¡n
+¡iS020189 ¶Â¦â¡jEpson Stylus Color 740/860/1160  Stylus Scan 2000/2500 ¡m§åµo»ù170 ¤¸¡n
+¡iS020191 ±m¦â¡jEpson Stylus Color 440/460/640/660/670/740/860/1160  Epson Stylus Scan 2000/2500 ¡m§åµo»ù190 ¤¸¡n
+¡iS020193 ±m¦â¡jEpson Stylus Photo 720/750/EX3 ¡m§åµo»ù190 ¤¸¡n
+¡iT003 ¶Â¦â¡jEpson Stylus Color 900/980 ¡m§åµo»ù250 ¤¸¡n
+¡iT005 ±m¦â¡jEpson Stylus Color 900/980 ¡m§åµo»ù350 ¤¸¡n
+¡iT013 ¶Â¦â¡jEpson Stylus Color 480/580/C20/C20SX/C20U ¡m§åµo»ù170 ¤¸¡n
+¡iT014 ±m¦â¡jEpson Stylus Color 480/580/C20/C20SX/C20U ¡m§åµo»ù190 ¤¸¡n
+¡iT019 ¶Â¦â¡jEpson Stylus 880/880i ¡m§åµo»ù500 ¤¸¡n
+¡iT020 ±m¦â¡jEpson Stylus 880/880i ¡m§åµo»ù450 ¤¸¡n
+¡iT017 ¶Â¦â¡jColor 680/685/777(´¹¤ù«¬) ¡m§åµo»ù350 ¤¸¡n
+¡iT018 ±m¦â¡jColor 680/685/777(´¹¤ù«¬) ¡m§åµo»ù350 ¤¸¡n
+¡iT028 ¶Â¦â¡jColor C60SU (´¹¤ù«¬) ¡m§åµo»ù350 ¤¸¡n
+¡iT029 ±m¦â¡jColor C60SU (´¹¤ù«¬) ¡m§åµo»ù350 ¤¸¡n
+¡iT007 ¶Â¦â¡jPhoto 780/785/790/870,875DC/890/895/1270/1280/1290(´¹¤ù«¬) ¡m§åµo»ù350 ¤¸¡n
+¡iT008 ±m¦â¡jPhoto 780/785/790/870,875DC/890/895/1270/1280/1290(´¹¤ù«¬) ¡m§åµo»ù350 ¤¸¡n
+¡iT009 ±m¦â¡jPhoto 1270/1280/1290(´¹¤ù«¬) ¡m§åµo»ù450 ¤¸¡n
+¡iT0010 ±m¦â¡jPhoto 1200(´¹¤ù«¬) ¡m§åµo»ù400 ¤¸¡n
+HP ¨t¦C  ¾¥¤ô§X 
+¡iHP51625A ±m¦â¡jDJ-200/200/320/340/400/420/500/540/550/560/505/560DeskWriter C/CK/320/540/550C/560C ¡m§åµo»ù650 ¤¸¡n
+¡iHP51626A ¶Â¦â¡jDJ-400/420/500/500/505/505/520/540/550/560/500/505/560 ¡m§åµo»ù550 ¤¸¡n
+¡iHP51629A ¶Â¦â¡jDJ-600/660C/670C/690C/695C//OJ-590/630/635/710/725 ¡m§åµo»ù550 ¤¸¡n
+¡iHP51645A ¶Â¦â¡jDJ-710/720/820/830/850/870/880/890/895/930/950/970/990/1000/1120/1120/1225/1600/1600/Photo Smart P1000/P1100/DesignJet 750C/750C PLUS/755CM/OfficeJet G55/G85/G95/R45/R65/T45/T65 OfficeJet PRO 1150C/1170C/1175C/Colour Copier 170 ¡m§åµo»ù550 ¤¸¡n
+¡iHP51649A ±m¦â¡jDJ-350I/600/610/640/660/670/690/692/694/695/695/Office Jet 590/630/635/725 ¡m§åµo»ù650 ¤¸¡n
+¡iHPC1823D ±m¦â¡jDJ-710C/720C/810C/830C/840/842/880C/890C/895CXI/1120C/1125C ¡m§åµo»ù700 ¤¸¡n
+¡iHPC6578D ±m¦â¡jDJ-920C/930C/950C/970CXI/990/1220C/Photo Smart P1000 ¡m§åµo»ù700 ¤¸¡n
+¡iHPC6614A ¶Â¦â¡jDJ-610/640 ¡m§åµo»ù550 ¤¸¡n
+¡iHPC6615A ¶Â¦â¡jDJ-810C/840C/920C ¡m§åµo»ù550 ¤¸¡n
+¡iHPC6625A ±m¦â¡jDJ-840C ¡m§åµo»ù700 ¤¸¡n
+EPSON ¨t¦C  ºÒ¯»§X
+¡iS051011 ¡jEpson  EPL-5000/5200 ¡m§åµo»ù2,665  ¤¸¡n
+¡iS051016 ¡jEpson  EPL-5600 ¡m§åµo»ù 2,665 ¤¸¡n
+¡iS051020 ¡jEpson  EPL-3000 ¡m§åµo»ù2,500  ¤¸¡n
+¡iS050005 ¡jEpson  EPL-5500 ¡m§åµo»ù1,550  ¤¸¡n
+¡iS050010 ¡jEpson  EPL-5700/5800 ¡m§åµo»ù 1,750 ¤¸¡n
+¡iS051035 ¡jEpson  EPL-N2000C ¡m§åµo»ù 3,500 ¤¸¡n
+¡iS051022 ¡jEpson  EPL-9000C ¡m§åµo»ù 3,600 ¤¸¡n
+¡iS051069 ¡jEpson  EPL-N2010 ¡m§åµo»ù 2,750 ¤¸¡n
+HP ¨t¦C  ºÒ¯»§X
+¡iHP-92274A ¡jLaserJet  4L/4P/4MP ¡m§åµo»ù 1,700 ¤¸¡n
+¡iHP-92275A ¡jLaserJet  IIP/IIIP ¡m§åµo»ù 1,800 ¤¸¡n
+¡iHP-92291A ¡jLaserJet  4SI/IIIS ¡m§åµo»ù2,200  ¤¸¡n
+¡iHP-92295A ¡jLaserJet  II/IID/IIID ¡m§åµo»ù 1,800 ¤¸¡n
+¡iHP-92298A ¡jLaserJet  4/4+/4M/5M ¡m§åµo»ù 2,000 ¤¸¡n
+¡iHP-C3900A ¡jLaserJet  4V/4MV/5M ¡m§åµo»ù 2,500 ¤¸¡n
+¡iHP-C3903A ¡jLaserJet  5P/5MP/6P ¡m§åµo»ù 1,700 ¤¸¡n
+¡iHP-C3906A ¡jLaserJet  5L/6L/3100 ¡m§åµo»ù 1,550 ¤¸¡n
+¡iHP-C3909A ¡jLaserJet  5SI/5SIM/8000 ¡m§åµo»ù 2,650 ¤¸¡n
+¡iHP-C4092A ¡jLaserJet  1100 ¡m§åµo»ù 1,500 ¤¸¡n
+¡iHP-C4096A ¡jLaserJet  2100/2200 ¡m§åµo»ù 2,200 ¤¸¡n
+¡iHP-C4127X ¡jLaserJet  4000/T/N/TN ¡m§åµo»ù 2,950 ¤¸¡n
+¡iHP-C4129X ¡jLaserJet  5000 ¡m§åµo»ù3,150  ¤¸¡n
+¡iHP-C4182X ¡jLaserJet  8100/8150 ¡m§åµo»ù2,550 ¤¸¡n
+
+
+
+-------------------------------------------------------
+This sf.net email is sponsored by:ThinkGeek
+Welcome to geek heaven.
+http://thinkgeek.com/sf
+_______________________________________________
+Spamassassin-Sightings mailing list
+Spamassassin-Sightings@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/spamassassin-sightings
+
+
