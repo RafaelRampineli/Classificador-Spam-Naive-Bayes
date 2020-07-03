@@ -24,6 +24,7 @@ A execução do aplicativo deve ser feito da seguinte forma:
 # MODELO EXECUÇÃO:
 
 $ python spam.py train bayes train/ output/resultado_treino.txt latin1
+
 $ python spam.py test bayes test/ output/resultado_teste.txt latin1
 
 python – nome do interpretador
